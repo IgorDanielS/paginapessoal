@@ -1,2 +1,2 @@
 # paginapessoal
-pagina pessoal, atividade de web - unicap
+pagina pessoal - atividade de web - unicap
